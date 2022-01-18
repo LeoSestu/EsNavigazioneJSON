@@ -2,6 +2,9 @@
 let jsonDoc;
 let pos;
 
+
+//PRIMO PROGETTO CARICATO SU GITHUB
+
 window.onload = function (){
     let json = localStorage.getItem("jsonBookstore");
     if (json != null){
